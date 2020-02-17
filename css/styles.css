@@ -1,5 +1,16 @@
 .brown {
 
   background-color:  	#210804;
-  color:  	#AF6000;
+  /*color:  	#AF6000;*/
+  color:  	#FBD248;
+}
+
+.fact {
+  background-color: #DB8118;
+  color: #210804;
+}
+
+.app {
+  background-color: #7C3F00;
+  color: #E3D04E;
 }
