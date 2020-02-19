@@ -75,26 +75,26 @@
             <div class="row">
               <div class="col-md-6">
                 <h4>Birthday</h4>
-                <form class="">
+                <form method="post" onsubmit="return false">
                   <p>Day (1-31):<input type="text"  name="day" size="1" id="day"></p>
                   <p>Month (1-12):<input type="text" name="month" size="1" id="month"></p>
                   <p>Year e.g 1990: <input type="text" name="year" size="3" id="year"></p>
                 </form>
-              </div>
+              </div>19
               <div class="col-md-6">
                 <h4>Gender</h4>
                 <div class="form-check">
                   <label class="form-check-label">
-                    <input type="radio" class="form-check-input" name="optradio">Male
+                    <input type="radio" class="form-check-input" name="optradio" id="gender">Male
                   </label>
                 </div>
                 <div class="form-check">
                   <label class="form-check-label">
-                    <input type="radio" class="form-check-input" name="optradio">Female
+                    <input type="radio" class="form-check-input" name="optradio" id="gender">Female
                   </label>
                 </div>
                 <br>
-                <button type="button" onclick="getAkanName();" class="btn btn-success">Submit</button>
+                <button type="submit" value="submit" onclick="getAkanName()" class="btn btn-success">Submit</button>
               </div>
             </div>
 
