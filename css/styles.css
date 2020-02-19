@@ -31,6 +31,10 @@ h1, h2, h3, h4,h5, th {
   font-family: 'Kaushan Script', cursive;
 }
 
+.red {
+  color: red;
+}
+
 .results {
   color: #fff;
 }
