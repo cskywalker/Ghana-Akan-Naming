@@ -11,6 +11,9 @@ https://cskywalker.github.io/Ghana-Akan-Naming/
 #technologies used
 HTML5, CSS3, BOOTSTRAP 4.4.1, Javascript.
 
+#Contact information
+wcndirangu@gmail.com
+
 ##license
 MIT License
 
